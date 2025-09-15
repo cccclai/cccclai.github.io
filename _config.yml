@@ -1,0 +1,11 @@
+title: "Chen Lai’s Blog"
+description: "Welcome to my GitHub Pages blog"
+theme: minima   # built-in theme
+
+# Add navigation links
+minima:
+  nav_links:
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
